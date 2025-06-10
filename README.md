@@ -1,24 +1,71 @@
-﻿<div>
-<img align="center" src="https://i.imgur.com/4ASafy0.png">
+﻿<div align="center">
+ <img  src="https://i.imgur.com/4ASafy0.png">
+   <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7964F&width=435&lines=This+is+Milan+Parmar!;Nice+to+meet+you.%F0%9F%91%8B&center=true&size=30">
+   </a>
 </div>
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7964F&width=435&lines=This+is+Milan+Parmar!;Nice+to+meet+you.%F0%9F%91%8B&center=true&size=30">
-  </a>
-</h1>
+
+---
    
-### About Me:
-<p align="center">
-I'm Milan Parmar, a Technical Consultant at Madhda Business Solutions with one years of experience specializing in Dynamics 365 Business Central and AL language. I hold a Diploma degree in information technology(IT) from Gujarat Technological University (GTU) At The Parul Polytechnic Institute (PPI), Vadodra.
-</p>
-<p>
-Along with my educational background, my most recent positions have allowed me to gain invaluable experience. As a PHP Developer at Best I Coder, I worked in a team to develop and manage online applications. Using PHP, HTML, CSS, and JavaScript, I was tasked with implementing functionality and improving user experience. My technical and analytical abilities have been further refined in my most recent role as a Technical Consultant at Madhda Business Solutions, where I have worked extensively with the AL language and have been involved in process creation, customization, and integration assignments.
-</p>
-<p>
-I have a proven track record in software development, particularly in creating scalable, efficient, and secure digital solutions. My expertise spans various domains, including software development, cybersecurity, and SOC analysis.
-</p>
-I am always eager to collaborate on innovative projects and contribute to impactful software solutions.
+## 🎯 Summary
+
+A results-driven professional seeking a challenging career path that offers growth opportunities. Committed to utilizing my skills and knowledge to significantly impact the organization's success and thrive in an environment of continuous learning and teamwork.
+
+---
+
+## 🧠 Technical Skills
+
+- **Languages:** PHP, Java, C/C++, AL Programming  
+- **Frameworks:** Laravel  
+- **Databases:** MySQL  
+- **Developer Tools:** VS Code, Git, Docker  
+- **Operating Systems:** Windows 10/11, Ubuntu  
+- **Soft Skills:** Problem-solving, Client Communication, Team Collaboration
+
+---
+
+## 💼 Experience
+
+### **Freelance PHP Developer (Laravel)** — *Full-time*  
+**Duration:** January 2024 – Present  
+- Built custom web applications using Laravel.  
+- Managed server deployments and feature customizations.  
+- Collaborated with clients to deliver tailored solutions.
+
+### **Business Central Technical Consultant – Madhda Business Solutions** — *Full-time*  
+**Duration:** May 2023 – June 2024  
+- Served as Assistant Technical Consultant for Microsoft Dynamics 365 (Business Central).  
+- Developed new applications and performed upgrades.  
+- Designed and generated RDL/XML/Word reports and handled secure data migrations.
+
+### **PHP Developer – Best I Coder** — *Full-time*  
+**Duration:** July 2022 – January 2023  
+- Contributed to team-based development using PHP, HTML, CSS, JavaScript, and Bootstrap.  
+- Created and maintained custom landing pages.  
+- Worked on projects like hwgdib.com with backend and frontend enhancements.
+
+---
+
+## 🛠 Projects
+
+### **Library Management System** — *PHP, JavaScript, CSS*  
+**Date:** May 2022  
+- Developed a fully functional system for book management with separate admin and user portals.  
+- Enabled real-time tracking of book records and user access.  
+- Simplified navigation with responsive design, improving admin efficiency.
+
+---
+
+## 🎓 Training
+
+**Ethical Hacking – Internshala**  
+**Duration:** May 2022 – July 2022  
+- Completed certified 8-week course covering:  
+  - Information Security & Networking Fundamentals  
+  - Web VAPT, OWASP Top 10, SQL Injection  
+  - Secure coding practices and real-world hacking simulations
+
 
 ### 📫 How to Reach Me:
 <a href="mailto:mgparmar23@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
